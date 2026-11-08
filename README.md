@@ -16,7 +16,6 @@ A collection of four projects exploring NASA's open datasets through programming
 - Matplotlib
 - Plotly
 - Scikit-learn
-- HTML, CSS and JavaScript
 
 ## Data Sources
 
